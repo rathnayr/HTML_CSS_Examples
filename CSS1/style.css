@@ -1,0 +1,14 @@
+p {
+    color: red;
+}
+#id-example {
+    color: fuchsia;
+}
+
+.class-example {
+    color: blueviolet;
+}
+
+li>a{
+    color: chartreuse;
+}
