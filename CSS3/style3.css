@@ -2,3 +2,10 @@
     width: 60%;
     margin: auto;
 }
+li{
+    display: inline;
+}
+
+li a {
+    background-color: darkblue;
+}
