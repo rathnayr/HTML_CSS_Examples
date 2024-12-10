@@ -2,7 +2,6 @@
     width: 60%;
     margin: auto;
 }
-
 header {
     display: flex;
 }
@@ -10,19 +9,15 @@ h1{
     background-color: burlywood;
     width: 40%;
 }
-
 nav {
     width: 60%;
-
 }
 ul{
     display: flex;
     list-style-type: none;
     justify-content: space-evenly;
     background-color: gold;
-
 }
-
 li a {
     background-color: darkblue;
     color: floralwhite;
@@ -32,7 +27,6 @@ li a {
     text-align: center ;
     line-height: 3rem;
 }
-
 li a:hover {
     background-color: rgba(0, 0, 45, 0.98);
 }
