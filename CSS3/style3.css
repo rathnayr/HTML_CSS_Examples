@@ -2,8 +2,8 @@
     width: 60%;
     margin: auto;
 }
-li{
-    display: inline;
+ul{
+    display: flex;
 }
 
 li a {
