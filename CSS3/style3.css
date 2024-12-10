@@ -8,4 +8,8 @@ li{
 
 li a {
     background-color: darkblue;
+    color: floralwhite;
+    width: 10em;
+    height: 3rem;
+    display: block;
 }
